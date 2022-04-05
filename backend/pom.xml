@@ -58,6 +58,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+        <finalName>discovery-aws-exe</finalName>
     </build>
 
 </project>
